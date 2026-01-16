@@ -18,7 +18,7 @@ A small React Native application that:
 - Bonus features:
   - Loading indicator
   - Pull-to-refresh
-  - Reusable `<PostCard />` component
+  - Reusable `<PostCard/>` component
   - Clean folder structure
 
 # Tech Stack
